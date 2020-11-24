@@ -1,7 +1,2 @@
-# fuerza-bruta-en-facebook
-fuerza bruta en facebook este escrip esta hecho con fines educativo o recuperar cuentas .si no recuerdas tu contraseña solicito ayuda si no funciona solicito ayuda a desarrolladores, estara disponible en termux .
-
-pkg intall update
-
-pkg intall git
-
+# BluForce_FB
+BluForce_FB es una herramienta para realizar ataques de fuerza bruta para facebook. Se puede usar el Gmail, ID o numero de telefono para el ataque 
