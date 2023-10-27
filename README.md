@@ -10,4 +10,4 @@ pkg intall git
 
 git clone  https://github.com/juan449/fuerza-bruta-en-facebook
 
-cd
+cd bruta-en-facebook
